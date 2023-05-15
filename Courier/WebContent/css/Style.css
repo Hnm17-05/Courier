@@ -1,0 +1,20 @@
+.bg-custom1{
+	background: #FF8C00;
+}
+
+.bg-custom{
+	background: #fff176;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: red;
+}
+.nav-custom .nav-item:hover .navlink {
+	
+	color:black;
+	border-radius:10px;
+}
+.div-color {
+ background-color: skyblue;
+}
